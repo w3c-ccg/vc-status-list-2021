@@ -1,2 +1,3 @@
-# vc-status-list-2021
-Redirect to W3C VCWG Status List 2021 specification.
+This work has moved to the W3C Verifiable Credentials Working Group:
+
+https://github.com/w3c/vc-status-list-2021/
